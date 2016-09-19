@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW7ListSlide34Prob2\HW7ListSlide34Prob2\bin\Debug\HW7ListSlide34Prob2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW7ListSlide34Prob2\HW7ListSlide34Prob2\bin\Debug\HW7ListSlide34Prob2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW7ListSlide34Prob2\HW7ListSlide34Prob2\bin\Debug\HW7ListSlide34Prob2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW7ListSlide34Prob2\HW7ListSlide34Prob2\obj\Debug\HW7ListSlide34Prob2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW7ListSlide34Prob2\HW7ListSlide34Prob2\obj\Debug\HW7ListSlide34Prob2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\HW7ListSlide34Prob2\HW7ListSlide34Prob2\obj\Debug\HW7ListSlide34Prob2.pdb
